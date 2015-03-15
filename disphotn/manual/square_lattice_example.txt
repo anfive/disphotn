@@ -1,0 +1,30 @@
+# Sample Configuration File for DISPHOTN.
+# Name of the mesh file
+meshfile square_lattice_example.txt
+
+# Geometry of the lattice
+a1 1 0
+a2 0 1
+
+# Periodicity
+xperiodic
+yperiodic
+
+# Metallic domains and their properties
+metal-domains 2
+omegap 1
+omega0 0.001
+
+# Band Structure computation
+kx 0 .2 .4 .6 .8 1 1  1  1  1  1 .8 .6 .4 .2 0
+ky 0 0  0  0  0  0 .2 .4 .6 .8 1 .8 .6 .4 .2 0
+
+# Target Frequency
+sigmar .6
+
+# Number of requested eigenfrequencies
+nev 16
+
+# Output files
+bandsfile example_bands.txt
+modesfile example_modes.txt

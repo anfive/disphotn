@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Installation}{3}
+\contentsline {section}{\numberline {3}{\tt PARDISO} License}{3}
+\contentsline {section}{\numberline {4}Getting Started}{3}
+\contentsline {subsection}{\numberline {4.1}The Configuration File}{3}
+\contentsline {subsection}{\numberline {4.2}Parameters}{7}
+\contentsline {subsection}{\numberline {4.3}Mesh File}{7}
+\contentsline {section}{\numberline {5}Program Description}{7}
+\contentsline {subsection}{\numberline {5.1}Theoretical Background}{7}
+\contentsline {subsection}{\numberline {5.2}Domain and Boundary Conditions}{8}
+\contentsline {subsection}{\numberline {5.3}Discretization}{9}
+\contentsline {subsection}{\numberline {5.4}Interface Conditions and Penalty}{9}
+\contentsline {subsection}{\numberline {5.5}Band Structure Computation}{9}
+\contentsline {subsection}{\numberline {5.6}Eigensolving}{10}
+\contentsline {subsection}{\numberline {5.7}Target Frequency}{10}
+\contentsline {subsection}{\numberline {5.8}Postprocessing and Interpolation}{10}
+\contentsline {subsection}{\numberline {5.9}Grid File}{10}
+\contentsline {subsection}{\numberline {5.10}Results and {\tt MATLAB} functions}{11}
+\contentsline {section}{\numberline {6}Example}{11}

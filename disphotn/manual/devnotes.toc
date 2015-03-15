@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Files Description}{3}
+\contentsline {section}{\numberline {3}Dependencies}{3}
+\contentsline {section}{\numberline {4}Anatomy of a Simulation}{3}
+\contentsline {subsection}{\numberline {4.1}Data Structures}{4}
+\contentsline {subsection}{\numberline {4.2}Configuration File}{4}
+\contentsline {subsection}{\numberline {4.3}Interpolation Grid}{4}
+\contentsline {subsection}{\numberline {4.4}Mesh Reading}{5}
+\contentsline {subsection}{\numberline {4.5}Edge Identification}{5}
+\contentsline {subsection}{\numberline {4.6}Geometrical Computations}{5}
+\contentsline {subsection}{\numberline {4.7}Boundary Identification}{5}
+\contentsline {subsection}{\numberline {4.8}Periodic Conditions}{6}
+\contentsline {subsection}{\numberline {4.9}Interface Identification (2D only)}{6}
+\contentsline {subsection}{\numberline {4.10}Metallic Edges Identification (3D only)}{6}
+\contentsline {subsection}{\numberline {4.11}Matrix Construction}{7}
+\contentsline {subsection}{\numberline {4.12}PEC Boundary Conditions}{7}
+\contentsline {subsection}{\numberline {4.13}Band Computation (Cycling over $\boldsymbol {k}$ values)}{7}
+\contentsline {subsection}{\numberline {4.14}Periodic Boundary Conditions}{8}
+\contentsline {subsection}{\numberline {4.15}Matrix Resizing}{8}
+\contentsline {subsection}{\numberline {4.16}Eigensolving}{8}
+\contentsline {subsection}{\numberline {4.17}Postprocessing}{8}
+\contentsline {subsection}{\numberline {4.18}Outputting Results}{8}
+\contentsline {section}{\numberline {5}Discussion, Problems and Future Work}{8}
+\contentsline {subsection}{\numberline {5.1}Interface Spurious Modes}{9}
+\contentsline {subsection}{\numberline {5.2}Penalty Method}{9}
+\contentsline {subsection}{\numberline {5.3}Eigenvalue Computation}{10}
